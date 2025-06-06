@@ -1,0 +1,18 @@
+#about {
+  top: -2px;
+}
+
+.jumbotron {
+  padding-top: 5rem; 
+  padding-left: 0.5px;
+  padding-right: 0.5px;
+  background-color:#e0f1fd;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#project {
+  background-color:#e0f1fd;
+}
